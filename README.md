@@ -10,7 +10,7 @@ Throughout the semester, I will be using Jupyter Notebook to write most of my le
 
 ## Course Syllabus
 
-Click here for the Course Syllabus: [https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/nbs/Syllabus.ipynb](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/nbs/Syllabus.ipynb)
+Click here for the Course Syllabus: [https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Syllabus/Syllabus.ipynb](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Syllabus/Syllabus.ipynb)
 
 ## Course Content
 
