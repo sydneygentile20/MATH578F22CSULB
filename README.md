@@ -25,10 +25,10 @@ Click here for the Course Syllabus: [https://nbviewer.org/github/huiprobable/MAT
 The following listing links to the notebooks in this repository, rendered through the [nbviewer](http://nbviewer.jupyter.org) service. The contents will be added and updated dynamically throughout the semester. 
 
 ### 1. Course Logistic, Downloads and Install, Basic Introduction
-#### 1.1 [Course Syllabus](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Syllabus/Syllabus.ipynb)
-#### 1.2 [Downloads and Install](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Lectures/Downloads.ipynb)
-#### 1.3 [Jupyter Notebook and Markdown Language](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Lectures/Markdown.ipynb)
-#### 1.4 [Introduction to Python](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Lectures/Lec01.ipynb)
+* 1.1 [Course Syllabus](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Syllabus/Syllabus.ipynb)
+* 1.2 [Downloads and Install](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Lectures/Downloads.ipynb)
+* 1.3 [Jupyter Notebook and Markdown Language](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Lectures/Markdown.ipynb)
+* 1.4 [Introduction to Python](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Lectures/Lec01.ipynb)
 
 ### 2. Linear Algebra Basics
 
