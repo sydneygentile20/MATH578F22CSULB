@@ -29,7 +29,7 @@ The following listing links to the notebooks in this repository, rendered throug
 * 1.2 [Downloads and Install](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Lectures/Downloads.ipynb)
 * 1.3 [Jupyter Notebook and Markdown Language](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Lectures/Markdown.ipynb)
 * 1.4 [Introduction to Python](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Lectures/Lec01.ipynb)
-* **[Assignment #1](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Assignments/Assignment01.ipynb)**
+* **[Assignment #1](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Assignments/Assignment01.ipynb)**  *Due Aug 30, 11:59pm. Please submit one .ipynb file to Beachboard.*
 
 ### 2. Linear Algebra Basics
 
