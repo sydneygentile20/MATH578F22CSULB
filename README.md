@@ -24,7 +24,7 @@ Click here for the Course Syllabus: [https://nbviewer.org/github/huiprobable/MAT
 
 The following listing links to the notebooks in this repository, rendered through the [nbviewer](http://nbviewer.jupyter.org) service. The contents will be added and updated dynamically throughout the semester. 
 
-### 1. Course Logistic, Downloads and Install, Basic Introduction (*[Lecture01 Video](https://csulb-my.sharepoint.com/:v:/g/personal/paul_sun_csulb_edu/EdlgVcVHcm1LhyK9WIRc6mQBbJ_O4y0rmtiZRCxaXAqobQ?e=E9hsxJ) covering 1.1-1.3*)
+### 1. Course Logistic, Downloads and Install, Basic Introduction (*[Lecture01 Video](https://csulb-my.sharepoint.com/:v:/g/personal/paul_sun_csulb_edu/EdlgVcVHcm1LhyK9WIRc6mQBbJ_O4y0rmtiZRCxaXAqobQ?e=E9hsxJ) covering 1.1-1.3*, *[Lecture02 Video](https://csulb-my.sharepoint.com/:v:/g/personal/paul_sun_csulb_edu/ETy-K785D8BAqnSJw9RXpb0BfE86Nf5axYm_UfZ0YLFljQ?e=jupcra) covering 1.4 and Assignment 1*)
 * 1.1 [Course Syllabus](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Syllabus/Syllabus.ipynb)
 * 1.2 [Downloads and Install](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Lectures/Downloads.ipynb)
 * 1.3 [Jupyter Notebook and Markdown Language](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Lectures/Markdown.ipynb)
