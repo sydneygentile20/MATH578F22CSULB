@@ -31,7 +31,13 @@ The following listing links to the notebooks in this repository, rendered throug
 * 1.4 [Introduction to Python](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Lectures/Lec01.ipynb)
 * **[Assignment #1](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Assignments/Assignment01.ipynb)**  *Due Aug 30, 11:59pm. Please submit one .ipynb file to Beachboard.*
 
-### 2. Linear Algebra Basics
+### 2. Linear Algebra Basics 
+* 2.1 [What is an array?](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Lectures/Lec02_numPy.ipynb#What-is-an-array?)
+* 2.2 [Creating arrays](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Lectures/Lec02_numPy.ipynb#Creating-arrays)
+* 2.3 [Array maths](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Lectures/Lec02_numPy.ipynb#Array-maths)
+* 2.4 [Indexing and Slicing](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Lectures/Lec02_numPy.ipynb#Indexing-and-Slicing)
+* 2.5 [Types of operations](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Lectures/Lec02_numPy.ipynb#Types-of-oper5tions)
+* 2.6 [Linear algebra and other advanced math](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Lectures/Lec02_numPy.ipynb#Linear-algebra-and-other-advanced-math)
 
 ### 3. Topic Modeling with NMF and SVD 
 
