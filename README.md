@@ -41,7 +41,7 @@ The following listing links to the notebooks in this repository, rendered throug
 
 ### 3. Topic Modeling with NMF and SVD (*[Lecture03 Video](https://csulb-my.sharepoint.com/:v:/g/personal/paul_sun_csulb_edu/EXutjbDjYaJFsUNsYKOTqo0BaZWn-CzXozLuFjCq4hm0vQ?e=zYfWEU) covering 2.1*)
 * 2.1 [Set up data](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Lectures/Lec03_NMF_SVD.ipynb#Set-up-data)
-* 2.2 [Singular Value Decomposition (SVD)](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Lectures/Lec03_NMF_SVD.ipynb#Singular Value Decomposition-(SVD))
+* 2.2 [Singular Value Decomposition (SVD)](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Lectures/Lec03_NMF_SVD.ipynb#Singular-Value-Decomposition-(SVD))
 * 2.3 [Non-negative Matrix Factorization (NMF)](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Lectures/Lec03_NMF_SVD.ipynb#Non-negative-Matrix-Factorization-(NMF))
 * 2.4 [PyTorch](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Lectures/Lec03_NMF_SVD.ipynb#PyTorch)
 * 2.5 [Truncated SVD](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Lectures/Lec03_NMF_SVD.ipynb#Truncated-SVD)
