@@ -38,6 +38,7 @@ The following listing links to the notebooks in this repository, rendered throug
 * 2.4 [Indexing and Slicing](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Lectures/Lec02_numPy.ipynb#Indexing-and-Slicing)
 * 2.5 [Types of operations](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Lectures/Lec02_numPy.ipynb#Types-of-oper5tions)
 * 2.6 [Linear algebra and other advanced math](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Lectures/Lec02_numPy.ipynb#Linear-algebra-and-other-advanced-math)
+* **[Assignment #2](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Assignments/Assignment02.ipynb)**  *Due Sep 6, 11:59pm. Please submit one .ipynb file to Beachboard.*
 
 ### 3. Topic Modeling with NMF and SVD (*[Lecture03 Video](https://csulb-my.sharepoint.com/:v:/g/personal/paul_sun_csulb_edu/EXutjbDjYaJFsUNsYKOTqo0BaZWn-CzXozLuFjCq4hm0vQ?e=zYfWEU) covering 3.1*)
 * 3.1 [Set up data](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Lectures/Lec03_NMF_SVD.ipynb#Set-up-data)
