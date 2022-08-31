@@ -39,7 +39,7 @@ The following listing links to the notebooks in this repository, rendered throug
 * 2.5 [Types of operations](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Lectures/Lec02_numPy.ipynb#Types-of-oper5tions)
 * 2.6 [Linear algebra and other advanced math](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Lectures/Lec02_numPy.ipynb#Linear-algebra-and-other-advanced-math)
 
-### 3. Topic Modeling with NMF and SVD 
+### 3. Topic Modeling with NMF and SVD (*[Lecture03 Video](https://csulb-my.sharepoint.com/:v:/g/personal/paul_sun_csulb_edu/EXutjbDjYaJFsUNsYKOTqo0BaZWn-CzXozLuFjCq4hm0vQ?e=zYfWEU) covering first part of the topics)
 
 ### 4. Background Removal with Robust PCA 
 
