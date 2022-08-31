@@ -31,7 +31,7 @@ The following listing links to the notebooks in this repository, rendered throug
 * 1.4 [Introduction to Python](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Lectures/Lec01.ipynb)
 * **[Assignment #1](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Assignments/Assignment01.ipynb)**  *Due Aug 30, 11:59pm. Please submit one .ipynb file to Beachboard.*
 
-### 2. Linear Algebra Basics (*This chapter is the reading part of [Assignment 2](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Assignments/Assignment2.ipynb).*)
+### 2. Linear Algebra Basics (*This chapter is the reading part of [Assignment 2](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Assignments/Assignment02.ipynb).*)
 * 2.1 [What is an array?](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Lectures/Lec02_numPy.ipynb#What-is-an-array?)
 * 2.2 [Creating arrays](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Lectures/Lec02_numPy.ipynb#Creating-arrays)
 * 2.3 [Array maths](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Lectures/Lec02_numPy.ipynb#Array-maths)
