@@ -31,7 +31,7 @@ The following listing links to the notebooks in this repository, rendered throug
 * 1.4 [Introduction to Python](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Lectures/Lec01.ipynb)
 * **[Assignment #1](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Assignments/Assignment01.ipynb)**  *Due Aug 30, 11:59pm. Please submit one .ipynb file to Beachboard.*
 
-### 2. Linear Algebra Basics 
+### 2. Linear Algebra Basics (*This chapter is the reading part of [Assignment 2](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Assignments/Assignment2.ipynb).*)
 * 2.1 [What is an array?](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Lectures/Lec02_numPy.ipynb#What-is-an-array?)
 * 2.2 [Creating arrays](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Lectures/Lec02_numPy.ipynb#Creating-arrays)
 * 2.3 [Array maths](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Lectures/Lec02_numPy.ipynb#Array-maths)
@@ -39,7 +39,14 @@ The following listing links to the notebooks in this repository, rendered throug
 * 2.5 [Types of operations](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Lectures/Lec02_numPy.ipynb#Types-of-oper5tions)
 * 2.6 [Linear algebra and other advanced math](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Lectures/Lec02_numPy.ipynb#Linear-algebra-and-other-advanced-math)
 
-### 3. Topic Modeling with NMF and SVD (*[Lecture03 Video](https://csulb-my.sharepoint.com/:v:/g/personal/paul_sun_csulb_edu/EXutjbDjYaJFsUNsYKOTqo0BaZWn-CzXozLuFjCq4hm0vQ?e=zYfWEU) covering first part of the topics)
+### 3. Topic Modeling with NMF and SVD (*[Lecture03 Video](https://csulb-my.sharepoint.com/:v:/g/personal/paul_sun_csulb_edu/EXutjbDjYaJFsUNsYKOTqo0BaZWn-CzXozLuFjCq4hm0vQ?e=zYfWEU) covering 2.1*)
+* 2.1 [Set up data](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Lectures/Lec03_NMF_SVD.ipynb#Set-up-data)
+* 2.2 [Singular Value Decomposition (SVD)](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Lectures/Lec03_NMF_SVD.ipynb#Singular Value Decomposition-(SVD))
+* 2.3 [Non-negative Matrix Factorization (NMF)](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Lectures/Lec03_NMF_SVD.ipynb#Non-negative-Matrix-Factorization-(NMF))
+* 2.4 [PyTorch](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Lectures/Lec03_NMF_SVD.ipynb#PyTorch)
+* 2.5 [Truncated SVD](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Lectures/Lec03_NMF_SVD.ipynb#Truncated-SVD)
+* 2.6 [Randomized SVD](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Lectures/Lec03_NMF_SVD.ipynb#Randomized-SVD)
+* 2.7 [Implementing our own Randomized SVD](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Lectures/Lec03_NMF_SVD.ipynb#Implementing-our-own-Randomized-SVD)
 
 ### 4. Background Removal with Robust PCA 
 
