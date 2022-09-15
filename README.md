@@ -50,12 +50,12 @@ The following listing links to the notebooks in this repository, rendered throug
 * 3.7 [Implementing our own Randomized SVD](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Lectures/Lec03_NMF_SVD.ipynb#Implementing-our-own-Randomized-SVD)
 * **[Assignment #3](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Assignments/Assignment03.ipynb)**  *Due Sep 20, 11:59pm. Please submit one .ipynb file to Beachboard.*
 
-### 4. [Background Removal with Robust PCA](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Lectures/Lec04_PCA.ipynb)
+### 4. [Background Removal with Robust PCA](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Lectures/Lec04_PCA.ipynb)(*[Lecture07 Video](https://csulb-my.sharepoint.com/:v:/g/personal/paul_sun_csulb_edu/EQchEBpN84NHjtB1jqb1N0cBadjPBF1Fizwk3qKFJV6Zrw?e=gBsBha) covering 4.1--4.2*)
 * 4.1 [Getting Started](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Lectures/Lec04_PCA.ipynb#Getting_Started)
 * 4.2 [SVD](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Lectures/Lec04_PCA.ipynb#SVD)
 * 4.3 [PCA](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Lectures/Lec04_PCA.ipynb#Principal_Component_Analysis_(PCA))
-* 4.3 [Robust PCA](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Lectures/Lec04_PCA.ipynb#Robust_PCA_(via_Primary_Component_Pursuit))
-
+* 4.4 [Robust PCA](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Lectures/Lec04_PCA.ipynb#Robust_PCA_(via_Primary_Component_Pursuit))
+* **[Book Chapter on SVD and PCA](https://bbcsulb.desire2learn.com/d2l/le/lessons/882936/topics/10457733) has been added to Beachboard.**
 
 ### 5. Compressed Sensing with Robust Regression
 
