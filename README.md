@@ -56,6 +56,7 @@ The following listing links to the notebooks in this repository, rendered throug
 * 4.3 [PCA](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Lectures/Lec04_PCA.ipynb#Principal_Component_Analysis_(PCA))
 * 4.4 [Robust PCA](https://nbviewer.org/github/huiprobable/MATH578F22CSULB/blob/main/Lectures/Lec04_PCA.ipynb#Robust_PCA_(via_Primary_Component_Pursuit))
 * **[Book Chapter on SVD and PCA](https://bbcsulb.desire2learn.com/d2l/le/lessons/882936/topics/10457733) has been added to Beachboard.** (*[Lecture08 Video](https://csulb-my.sharepoint.com/:v:/g/personal/paul_sun_csulb_edu/EUC4-P-lRvJHnH8A4lYrLJcBf2XgMxuWqR-5WS2Zr6cLTg?e=7ChC0Y) covering SVD and PCA, [notes](https://bbcsulb.desire2learn.com/d2l/le/lessons/882936/topics/10458541) posted in Beachboard.*)
+* **[Lecture notes on Robust PCA](https://bbcsulb.desire2learn.com/d2l/le/lessons/882936/units/10458538) has been added to Beachboard.** (*[Lecture09 Video](https://csulb-my.sharepoint.com/:v:/g/personal/paul_sun_csulb_edu/EeteMrXExyJOn7CI-vHElGkBgMctX2a-qzzke8mrhkiUXQ?e=a88gSd) covering Robust PCA*)
 
 ### 5. Compressed Sensing with Robust Regression
 
